@@ -1,16 +1,48 @@
-### Hi there 👋
+### Hi there 👋 I'm Luiz
 
-<!--
-**luizcasimiro/luizcasimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### A bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer who loves UX Design.
+
+I enjoy talking about diversity and sustainability.
+
+I speak three languages: English, Portuguese, and Spanish.  
+
+<br>
+
+### Right now I am:
+
+...working on a pokedex, with React (front) and Django (back).
+
+<br>
+
+### I know how to work with:
+
+<div display="inline-block"> 
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
+</div>
+
+<br>
+
+### I mostly work with:
+
+<div>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcasimiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<br>
+
+### Connect with me on:
+
+<div display="inline-block"> 
+  <a href="https://www.linkedin.com/in/luizcasimiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luizcasimi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
