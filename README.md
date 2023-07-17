@@ -4,9 +4,7 @@
 
 ### A bit about me:
 
-I'm a software developer who loves UX Design.
-
-I enjoy talking about diversity and sustainability.
+I'm a software engineer who enjoys talking about diversity and sustainability.
 
 I speak three languages: English, Portuguese, and Spanish.  
 
@@ -14,7 +12,7 @@ I speak three languages: English, Portuguese, and Spanish.
 
 ### Right now I am:
 
-...working on a pokedex, with React (front) and Django (back).
+...working on a pokedex, with TypeScript/React (front) and Python/Django (back).
 
 <br>
 
