@@ -10,12 +10,6 @@ I speak three languages: English, Portuguese, and Spanish.
 
 <br>
 
-### Right now I am:
-
-...working on a pokedex, with TypeScript/React (front) and Python/Django (back).
-
-<br>
-
 ### I know how to work with:
 
 <div display="inline-block"> 
