@@ -4,7 +4,7 @@
 
 ### A bit about me:
 
-I'm a software engineer who enjoys talking about diversity and sustainability.
+I like talking about diversity and sustainability.
 
 I speak three languages: English, Portuguese, and Spanish.  
 
