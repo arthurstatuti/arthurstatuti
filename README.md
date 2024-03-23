@@ -28,7 +28,7 @@ I speak three languages: English, Portuguese, and Spanish.
 ### I mostly work with:
 
 <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurstatuti&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casimirowich&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br>
