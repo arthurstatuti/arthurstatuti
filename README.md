@@ -32,3 +32,7 @@ I speak three languages: English, Portuguese, and Spanish.
 </div>
 
 <br>
+
+### Connect with me on:
+<div display="inline-block"> 
+    <a href = "mailto:casimirowich@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
